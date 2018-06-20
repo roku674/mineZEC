@@ -1,0 +1,1 @@
+minergate-cli -u Roku674@gmail.com --zec 4 -g
