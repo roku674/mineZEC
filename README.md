@@ -9,6 +9,7 @@ mineZEC#g - the number indicates the amount of CPU cores that will be used autom
 Feel free to use as is to donate toward http://www.perilousgames.com for development toward Ad Astra Periclum
 
 changing for your own usage. edit the XMR files and change it to your registered email with minergate. 
+Dont have a minergate account? https://minergate.com/a/d770f13aaa64d1a29b17bcc1
 
 you may also commandline minergate-cli -u youremail@youremail.com --CryptoCurrencyAsTheirThreeLetters amountOfCpuCores
 
