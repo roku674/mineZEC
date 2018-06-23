@@ -15,4 +15,4 @@ you may also commandline minergate-cli -u youremail@youremail.com --CryptoCurren
 
 Example
 
-minergate-cli -u Roku674@gmail.com --eth 4
+minergate-cli -u Roku674@gmail.com --bcn 4
